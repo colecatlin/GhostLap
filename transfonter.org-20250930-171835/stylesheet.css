@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Shader';
+    src: url('Shader-Black.woff2') format('woff2'),
+        url('Shader-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shader';
+    src: url('Shader-Regular.woff2') format('woff2'),
+        url('Shader-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shader Hairline';
+    src: url('Shader-Hairline.woff2') format('woff2'),
+        url('Shader-Hairline.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shader';
+    src: url('Shader-Bold.woff2') format('woff2'),
+        url('Shader-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shader';
+    src: url('Shader-Light.woff2') format('woff2'),
+        url('Shader-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shader';
+    src: url('Shader-Medium.woff2') format('woff2'),
+        url('Shader-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shader';
+    src: url('Shader-SemiBold.woff2') format('woff2'),
+        url('Shader-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shader';
+    src: url('Shader-Thin.woff2') format('woff2'),
+        url('Shader-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shader XBold';
+    src: url('Shader-XBold.woff2') format('woff2'),
+        url('Shader-XBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
